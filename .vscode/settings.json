@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+
+    // Optional if you have the Prettier extension installed
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    
+}
